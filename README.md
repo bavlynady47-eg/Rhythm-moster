@@ -1,10 +1,12 @@
 Project Title: Rhythm Monster
+
 Author: Bavly Nady
-Event:
-BEEST Event
+
+Event: BEEST Event
 
 How to use the game:
-- Use the D, F, J, K keys to hit the notes as they cross the target line.
+
+- Use the D, F, J, K keys to hit the notes as they cross the target line to get the highest score .
 
 - Keep your combo high to maximize your score!
 
@@ -14,8 +16,15 @@ How to use the game:
 
 Here's some cool Features:
 
-you can see your score at the end of the game
-the game calculates your combo streak 
+-the score is calculated after each note
+
+-the game is easy and fun to play 
+
+-you can see your score at the end of the game
+
+-when you click the bote some magic ✨ graphics appears from the note 
+
+-the game calculates your combo streak 
 it is funny and cool :D
 
 The demo link :  https://bavly-nady.itch.io/rhythm-monster

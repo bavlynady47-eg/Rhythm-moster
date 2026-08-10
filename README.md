@@ -2,7 +2,7 @@ Project Title: Rhythm Monster
 
 Author: Bavly Nady
 
-Event: BEEST Event
+Event: 3am Event
 
 How to use the game:
 
